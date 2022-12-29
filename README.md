@@ -11,8 +11,8 @@ You can now save the ROM by DSPRE, remember to not re-extract the contents of yo
 
 Credits:
 
--turtleisaac for the Platinum starter sprites research
--Misfit for HGSS starter cries
--PlatinumMaster for the BW2 starters
--kr3nshaw for Knarc
--CUE for blz
+- turtleisaac for the Platinum starter sprites research
+- Misfit for HGSS starter cries
+- PlatinumMaster for the BW2 starters
+- kr3nshaw for Knarc
+- CUE for blz
