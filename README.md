@@ -2,7 +2,7 @@
 A tool to edit starters of the mainline DS Pokemon games. 
 Current games supported: Platinum (starter sprites, cries), HeartGold/SoulSilver (only starter sprites)
 
-**OnlyUS ROMs are supported**
+**Only US ROMs are supported**
 
 ## How to use 
 1. If you haven't already, create project with [DSPRE](https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor/releases/tag/v1.7.1), this will generate a folder at the same location of your ROM containing the extracted data
