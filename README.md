@@ -5,7 +5,7 @@ Current games supported: Platinum (starter sprites, cries), HeartGold/SoulSilver
 **Only US ROMs are supported**
 
 ## How to use 
-1. If you haven't already, create project with [DSPRE](https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor/releases/tag/v1.7.1), this will generate a folder at the same location of your ROM containing the extracted data
+1. If you haven't already, create project with [DSPRE](https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor/releases), this will generate a folder at the same location of your ROM containing the extracted data
 2. Launch DS Starter Editor and choose the game
 3. Select the project folder that was created by DSPRE
 4. Edit your starters and then click apply changes
