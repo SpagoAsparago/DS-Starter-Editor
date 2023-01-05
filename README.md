@@ -11,8 +11,8 @@ Current games supported: Platinum (starter sprites, cries), HeartGold/SoulSilver
 4. Edit your starters and then click apply changes
 5. Close the tool, launch DSPRE and open your project, then you can save the ROM with the new starters. Remember to not re-extract the contents of the ROM!
 
-The tool does not edit text or the rival team, but both can be done in DSPRE anyway.
-
+- The tool does not edit text or the rival team, but both can be done in DSPRE anyway.
+- Platinum starters will not have their sprites changed if they have a national dex number between 256 and 260 and are in the first slot, between 256 and 264 and are in the second slot, or between 256 and 268 and are in the third slot
 Credits:
 
 - turtleisaac for the Platinum starter sprites research
